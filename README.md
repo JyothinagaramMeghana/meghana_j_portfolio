@@ -4,9 +4,13 @@ Welcome to my portfolio website! This platform showcases my journey in Data Scie
 
 ## Table of Contents
 [File Structure](#file-structure)
+
 [Features](#features)
+
 [Technologies Used](#technologies-used)
+
 [About Me](#about-me)
+
 [Contact](#contact)
 
 ## File Structure
