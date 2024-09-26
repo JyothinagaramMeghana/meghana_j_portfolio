@@ -59,7 +59,7 @@ I am a passionate Data Science and Cyber Security student at Garden City Univers
 
 ## Contact
 
-- **Email**: meghasetty1@example.com
+- **Email**: meghasetty1@gmail.com
 
 - **LinkedIn**: https://linkedin.com/in/meghanajyothinagaram
 
