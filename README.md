@@ -59,6 +59,6 @@ I am a passionate Data Science and Cyber Security student at Garden City Univers
 
 - **LinkedIn**: https://linkedin.com/in/meghanajyothinagaram
 
-Thank You for Visiting!
+## Thank You for Visiting!
 
 I appreciate you taking the time to explore my portfolio website. I hope you found the information valuable and inspiring. Thank you for your interest!
